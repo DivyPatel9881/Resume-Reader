@@ -1,0 +1,13 @@
+Fields to be extracted :
+
+Name : Spacy
+Phone number of the candidate : Spacy
+
+Email address : regex
+Linkedin profile link : regex
+
+Total No. of Text Lines on each page : OCR
+Total No. of Text characters on each page : OCR
+
+Which Fonts and which Font Sizes are present in the document
+How many tables and images are present in the document
