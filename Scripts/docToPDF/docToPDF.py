@@ -1,7 +1,7 @@
 import convertapi
 from pathlib import Path
 
-from .APIKey import *
+from .apiKey import *
 
 if is_api_key_set():
     convertapi.api_secret = get_api_key()
