@@ -11,4 +11,4 @@ A web-based application for extracting important details from Resume.
 ![Result1](https://github.com/DivyPatel9881/Resume-Reader/blob/master/illustrations/csv1.png)
 
 #### Result for Resume_1.pdf
-![Result2](https://github.com/DivyPatel9881/Resume-Reader/blob/master/illustrations/csv21.png)
+![Result2](https://github.com/DivyPatel9881/Resume-Reader/blob/master/illustrations/csv2.png)
