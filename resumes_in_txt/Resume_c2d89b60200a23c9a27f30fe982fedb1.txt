@@ -1,0 +1,65 @@
+DIVY PATEL
+Š github.com/divy9881 ; divy9881@gmail.com
+@24-B, Ashoknagar, Bhiwandi-421302 \8169662029
+
+
+EDUCATION
+Veermata Jijabai Technological Institute, Mumbai
+Bachelor of Technology, Information Technology                         9.19 CPA            Aug 2017 - April 2021
+BNN, Bhiwandi
+Grade 12                                                                                        87%                    
+July 2015 - May 2017
+Scholar’s School, Bhiwandi
+Grade 10                                                                                        92%                    
+July 2003 - April 2015
+TECHNICAL SKILLS
+LANGUAGES:                            C++, C, Python, Java, Javascript, Go WEB DEVELOPMENT:            HTML, CSS, 
+NodeJs, MongoDB, SQL BLOCKCHAIN
+MACHINE LEARNING
+PROJECTS (ALL AVAILABLE ON GITHUB) BOICE BLOCKCHAIN
+- The project envisioned on modelling a blockchain which incorporates the security of Bitcoin blockchain and flexi- 
+bility of Ethereum blockchain;
+- Its an ongoing project of mine, in which I have already implemented core cryptography bits and pieces of code, 
+including public-private key generation.
+KEY VALUE PAIR EXTRACTOR FROM SCANNED DOCUMENTS
+- The application was developed during a challenge organized by IIT-Bombay;
+- The application can successfully extract tagged essential features from the scanned documents, which can be further 
+used for analysis purposes;
+- The application extracts text from .jpg or .pdf format documents by using Tessaract OCR.
+DISTRIBUTED COMPUTING
+- The application significantly reduces time of execution of a process which consumes high amount of resources which is 
+available;
+- Application allows multiple-threading to increase the efficiency of the application, as it contains many asynchronous 
+procedure calls.
+MASKED-WEB-CRAWLER
+- The application allows a user to crawl a web page without getting blocked by intelligent bot detector mechanisms 
+implemented by various websites;
+- To crawl dynamic websites, the main requirement is to execute the javascript on the web page, hence to solve this 
+problem I used headless chrome;
+- The application also takes care of not sending bulk of requests to the server, hence avoiding bot blocking.
+CROWD FUNDING WEB
+- The website was developed during a hackathon, which helps a fund-raiser to fund a particular organization which needs 
+a specific target amount of funds;
+- Interactive chat-bot was implemented with it to improve the user experience;
+- Recommender system was implemented to recommend organisations to be funded to the fund-raisers, which he or she would 
+be interested in on the basis of past preferences.
+
+IMPORTANT ACHIEVEMENTS
+- Leader of a team which was placed fourth in Springfield challenge held at IIT-Bombay Techfest;
+- Placed second in E-Cell hackathon held at VJTI;
+- Placed third in Stryker Challenge held at VJTI;
+- Runner up in many hackathons;
+- Secured All India Rank of 5999 in JEE Advance 2017;
+- Secured 525 Rank in MHT CET 2017.
+
+
+WORK EXPERIENCE
+WashedUp                                                                                                                
+   Jan 2019 - Feb 2019 UI designer
+- Designed UI of the main android application.
+
+
+PERSONAL TRAITS
+- Highly motivated and eager to learn new things;
+- Strong motivational and leadership skills;
+- Ability to work as an individual as well as in group.

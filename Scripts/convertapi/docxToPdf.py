@@ -13,10 +13,10 @@ else:
 
 print("Found your API endpoint.")
 
-input_folder = Path('/Resume-Reader/resumes_in_doc')
+input_folder = Path('/Resume-Reader/resumes_in_docx')
 output_folder = Path('/Resume-Reader/resumes_in_pdf')
 
-def doc_to_pdf(input_file_name, output_file_name):
+def docx_to_pdf(input_file_name, output_file_name):
     input_file_path = input_folder / input_file_name
     output_file_path = output_folder / output_file_name
 
