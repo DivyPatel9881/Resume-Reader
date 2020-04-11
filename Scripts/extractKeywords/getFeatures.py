@@ -70,8 +70,13 @@ def get_phone_numbers(text):
 
     actual_matches = []
     for match in matches:
-        match = match.strip(' ')
+        match = match.strip(' -.')
         if len(match) >= 7 and len(match) <= 20 and num_of_digs(match) >= 7:
             actual_matches.append(match)
 
-    return actual_matches
+    return [actual_matches[0]]
+
+def get_name(lines):
+    if lines[0].strip(' \t\n').lower() != 'resume':
+        return [lines[0].strip(' \t\n')]
+    return [lines[1].strip(' \t\n')]
