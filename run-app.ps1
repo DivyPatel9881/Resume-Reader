@@ -1,3 +1,3 @@
-$env:FLASK_APP = server.py
-$env:FLASK_ENV = development
+$env:FLASK_APP = 'server.py'
+$env:FLASK_ENV = 'development'
 flask run
